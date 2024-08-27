@@ -7,5 +7,5 @@
     <string name="help">Help?</string>
     <string name="username">Username</string>
     <string name="password">Password</string>
-    <string name="login_error">Your username or password is incorrect. Please try again.</string>
+    <string name="login_error_message">Your username or password is incorrect. Please try again.</string>
 </resources>
