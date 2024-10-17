@@ -1,0 +1,180 @@
+{
+  "numFound": 5,
+  "start": 0,
+  "docs": [
+    {
+      "key": "/works/OL82563W",
+      "title": "The Fellowship of the Ring",
+      "author_name": [
+        "J.R.R. Tolkien"
+      ],
+      "first_publish_year": 1954,
+      "isbn": [
+        "9780618574940",
+        "0618574948"
+      ],
+      "publish_date": [
+        "1954",
+        "2004"
+      ],
+      "cover_i": 8234096,
+      "edition_count": 23,
+      "subject": [
+        "Fiction",
+        "Fantasy",
+        "Middle Earth"
+      ],
+      "language": [
+        "eng"
+      ],
+      "publisher": [
+        "Houghton Mifflin",
+        "George Allen & Unwin"
+      ],
+      "place": [
+        "Middle Earth"
+      ]
+    },
+    {
+      "key": "/works/OL81887W",
+      "title": "The Two Towers",
+      "author_name": [
+        "J.R.R. Tolkien"
+      ],
+      "first_publish_year": 1954,
+      "isbn": [
+        "9780618574957",
+        "0618574956"
+      ],
+      "publish_date": [
+        "1954",
+        "2004"
+      ],
+      "cover_i": 8234110,
+      "edition_count": 22,
+      "subject": [
+        "Fiction",
+        "Fantasy",
+        "Middle Earth"
+      ],
+      "language": [
+        "eng"
+      ],
+      "publisher": [
+        "Houghton Mifflin",
+        "George Allen & Unwin"
+      ],
+      "place": [
+        "Middle Earth"
+      ]
+    },
+    {
+      "key": "/works/OL87987W",
+      "title": "1984",
+      "author_name": [
+        "George Orwell"
+      ],
+      "first_publish_year": 1949,
+      "isbn": [
+        "9780451524935",
+        "0451524934"
+      ],
+      "publish_date": [
+        "1949",
+        "1983",
+        "2003"
+      ],
+      "cover_i": 8256100,
+      "edition_count": 45,
+      "subject": [
+        "Fiction",
+        "Dystopia",
+        "Political Fiction"
+      ],
+      "language": [
+        "eng",
+        "spa",
+        "fre"
+      ],
+      "publisher": [
+        "Signet Classics",
+        "Penguin Books"
+      ],
+      "place": [
+        "London",
+        "Oceania"
+      ]
+    },
+    {
+      "key": "/works/OL77689W",
+      "title": "Pride and Prejudice",
+      "author_name": [
+        "Jane Austen"
+      ],
+      "first_publish_year": 1813,
+      "isbn": [
+        "9780141040349",
+        "0141040343"
+      ],
+      "publish_date": [
+        "1813",
+        "1995",
+        "2009"
+      ],
+      "cover_i": 8354412,
+      "edition_count": 68,
+      "subject": [
+        "Fiction",
+        "Romance",
+        "Social life and customs",
+        "Love stories"
+      ],
+      "language": [
+        "eng",
+        "ger"
+      ],
+      "publisher": [
+        "Penguin Classics",
+        "Wordsworth Editions"
+      ],
+      "place": [
+        "England"
+      ]
+    },
+    {
+      "key": "/works/OL98753W",
+      "title": "To Kill a Mockingbird",
+      "author_name": [
+        "Harper Lee"
+      ],
+      "first_publish_year": 1960,
+      "isbn": [
+        "9780060935467",
+        "0060935464"
+      ],
+      "publish_date": [
+        "1960",
+        "2002"
+      ],
+      "cover_i": 8341201,
+      "edition_count": 39,
+      "subject": [
+        "Fiction",
+        "Social issues",
+        "Race relations",
+        "Coming of age"
+      ],
+      "language": [
+        "eng"
+      ],
+      "publisher": [
+        "Harper Perennial",
+        "J.B. Lippincott & Co."
+      ],
+      "place": [
+        "Alabama",
+        "United States"
+      ]
+    }
+  ]
+}

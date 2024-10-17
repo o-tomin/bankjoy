@@ -16,6 +16,7 @@ import com.oleksii.tomin.bankjoycodesolution.ext.collectWithLifecycle
 import com.oleksii.tomin.bankjoycodesolution.ext.scopedClickAndDebounce
 import com.oleksii.tomin.bankjoycodesolution.ext.scopedTextChangesAndDebounce
 import kotlinx.coroutines.flow.buffer
+import kotlinx.coroutines.flow.drop
 import kotlinx.coroutines.flow.launchIn
 import kotlinx.coroutines.flow.map
 import kotlinx.coroutines.flow.onEach
@@ -42,6 +43,7 @@ class LoginBottomSheet : BottomSheetDialogFragment() {
         super.onViewCreated(view, savedInstanceState)
 
         viewModel.state
+            .drop(1)
             .map { it.username to it.password }
             .collectWithLifecycle(this) { (username, password) ->
                 if (username.isValid && password.isValid) {
